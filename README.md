@@ -1,5 +1,7 @@
 # bikesharing
 Module 14
+This project is an in-depth analysis about the bike sharing program in New York. This project was done to show if bike sharing could be used in Des Moines using data visualization tools.
+
 ## Project Overview
 This project is an in-depth analysis about the bike sharing program in New York. This project was done to show if bike sharing could be used in Des Moines using data visualization tools.
 
